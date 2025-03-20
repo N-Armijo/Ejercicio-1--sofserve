@@ -1,3 +1,6 @@
 Tarea 1
+rama feature1
+rama feature2
+rama feature3
 Tarea 2
 Tarea 3
